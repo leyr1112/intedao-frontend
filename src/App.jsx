@@ -255,8 +255,7 @@ function App() {
           </Switch>
         </div>
       </div>
-    </ThemeProvider>
-    
+    </ThemeProvider>    
   );
 }
 
